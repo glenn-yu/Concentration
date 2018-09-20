@@ -1,5 +1,5 @@
 # Concentration
 
 Standford Univ. Lecture.
-Swift 11
+Swift, iOS 11 
 
